@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_e8d370ced50ff278a61de2ba8fa1f7030501f6ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_f9745acae23e00fcbe87df525ff76c6ac8e12573/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_21143d16aa935cfc339004378fcef958fb99503c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_cde0ef1225536413de9c954bb333a9f607cf6d84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_4aceb512d222ba24bdc7989e885be7800b57bf45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_ad8a1de6590692984ec1c60ddca7e243040a37ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_27e9749a6ed5cc446265d7fd7eac26dd4bb1a3b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80a1046025626a7a6fbfa5cb7f4d7401644a256e">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_71f7947ed4faa2abad545372c22e4dcf8e092101/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_ca25bea18e139841ad014e182ae56a6c57a586d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_3b9fe635f8175f024234cc9a9ecb4c8ae3d560bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_25a0763dd40296c925f6627595ff4bd7d1d322b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_32a576533f05ed4fc56bc8c5d74a244f8ed080d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_1ff942d60d5b203f760bb3cc3193f7031f88d37a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e0547c5be9fbf08e1d8c57bd66d63bb52bf1e4e4">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fad8b86f8e334f1e9b99f0b025e29b721a1f4a76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/BroadcastReceive/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_2476f5f33a95e746d9fd257409627c5ef6cde686/classes.dex" />
+    </item>
+
+</items>
